@@ -1,0 +1,15 @@
+{
+  "name": "jwt-authentication",
+  "version": "1.0.0",
+  "description": "Jwt Authentication using react and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anix001",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
